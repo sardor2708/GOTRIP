@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Light';
+    src: url(../fonts/Rubik-Light.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Regular';
+    src: url(../fonts/Rubik-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'SemiBold';
+    src: url(../fonts/Rubik-SemiBold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'InterSM';
+    src: url(../fonts/Inter-SemiBold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'InterR';
+    src: url(../fonts/Inter-Regular.ttf) format('truetype');
+}
